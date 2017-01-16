@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\wordConsole\wordConsole\bin\Debug\wordConsole.exe.config
+C:\Users\David\Desktop\wordConsole\wordConsole\bin\Debug\wordConsole.exe
+C:\Users\David\Desktop\wordConsole\wordConsole\bin\Debug\wordConsole.pdb
+C:\Users\David\Desktop\wordConsole\wordConsole\obj\Debug\wordConsole.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\wordConsole\wordConsole\obj\Debug\wordConsole.exe
+C:\Users\David\Desktop\wordConsole\wordConsole\obj\Debug\wordConsole.pdb
